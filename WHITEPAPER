@@ -98,14 +98,3 @@ This framework concerns measurement and behavioral engineering only.
 ## 9. Conclusion
 
 GSC/NI demonstrates that reasoning stability and assumption preservation in generative systems can be numerically measured, externally validated, and falsified under temporal stress. By replacing descriptive labels with operational metrics, GSC/NI provides the measurement layer necessary to distinguish variance from drift in modern generative systems.
-
-When to use this whitepaper
-As the front‑door explanation 
-Linked from README.md 
-Referenced in posts instead of long explanations 
-Sent to researchers without extra commentary 
-If you want next:
-I can help you format this for PDF 
-write a citation‑style abstract 
-or compress it to a half‑page executive summary 
-This is the correct stage to be at now.
